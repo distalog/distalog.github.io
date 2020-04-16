@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css" />
 ![DISTALOG](name.svg "DISTALOG")
 
 ## Second Level Engineering
