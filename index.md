@@ -1,5 +1,5 @@
 ![DISTALOG](name.svg "DISTALOG")
-<link rel="stylesheet" href="style.css" />
+<!-- <link rel="stylesheet" href="style.css" /> -->
 
 ## Second Level Engineering
 DISTALOG LLC, established in [Zürich,
