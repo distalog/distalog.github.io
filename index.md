@@ -17,9 +17,6 @@ Some ways we can help you operate on your project, team or business to
 make it more successful:
 
 ### Services
-#### ÷
-Divide  
-and conquer your problem space.
 
 The first step of any successful software project is to break it down
 into manageable units with well defined relationships and
@@ -48,10 +45,6 @@ organizational responsibilities.
   containers, set up the infrastructure to build them easily and
   continuously.
 
-#### ×
-Multiply  
-your team's efficiency.
-
 Efficient development processes, tools and teams are key to
 agility. We can help setting up or optimizing the tools and training
 your team. Here are some the tools we recommend and support:
@@ -77,9 +70,6 @@ your team. Here are some the tools we recommend and support:
 - _..._:  
   There are many more specialized tools we are familiar with, please reach out for more details.
 
-#### \-
-Subtract  
-issues from your roadmap.
     
 Meeting unexpected or difficult challenges ? 
 We can help overcome, with decades of experience in the industry.
@@ -102,10 +92,6 @@ We can help overcome, with decades of experience in the industry.
   your money in the right place. We can also audit your current system
   for potential technical or security issues. We identify potential
   issues before you become responsible for them.
-
-#### \+
-Add  
-top-tier competence to your project.
 
 Need battle-tested software development or process optimization
 know-how ? We can provide !
