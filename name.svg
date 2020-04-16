@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 1950 330">
+  <g  fill="none" stroke="#80C0E0" stroke-linejoin="round"  transform="translate(20,20)">
+    <g id="name" transform="scale(0.7)" stroke-width="70">
+      <g id="D"> 
+	<path d="M 0,30 Q 500,200 0,370 " />
+	<g id="I" transform="translate(255,0)"> 
+	  <path d="M 125,0 L 125,400 " />
+	  <g id="S" transform="translate(240,0)"> 
+	    <path  d="M 300,30 Q -200,115 200,200 500,285 0,370" /> 
+	    <g id="T" transform="translate(360,0)"> 
+	      <path d="M 0,30 L 250,30 250,400 " />
+	      <g id="A" transform="translate(360,0)"> 
+		<path  d="M 0,400 L 175,30 320,400 " />
+		<g id="L" transform="translate(400,0)"> 
+		  <path   d="M 30,0 L 30,370 280,370 " />
+		  <g id="O" transform="translate(310,-15)"> 
+		    <path  d="M 300,250 Q 310,0 125,60  -100,215 125,370 310,430 300,240 " />
+		    <g id="G" transform="translate(410,0)"> 
+		      <path  d="M 300,180 Q 310,0 125,60  -100,215 125,370 310,430 300,260" />
+		      <path  d="M 230,260 L 370,260 370,360 " />
+		    </g>
+		  </g>
+		</g>
+	      </g>
+	    </g>
+	  </g>
+	</g>
+      </g>
+    </g>
+  </g>
+</svg>

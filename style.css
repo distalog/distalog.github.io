@@ -1,0 +1,98 @@
+html{
+    font-family: "Roboto", "Noto Sans", sans-serif
+}
+
+body {
+    color: white;
+    background-color: black;
+} 
+
+body > p {
+    color: #80C0E0;
+    text-align: center;
+}
+
+body > p:after {
+    content: "®";
+    vertical-align: top;
+}
+
+body p img {
+    width: 60%;
+}
+
+body:before {
+    content: url("logo.svg");
+    position: absolute;
+    width: 5em;
+    left: 0;
+    top: 0;
+}
+
+body:after {
+    color: #80C0E0;
+    font-size: 0.2em;
+    content: "Website by DISTALOG ®";
+    float: right;
+}
+
+h1 {
+    font-size: 0px;
+}
+
+h2 {
+    color: #80C0E0;
+    text-align: center;
+}
+
+.level2 > p {
+    text-align: center;
+}
+
+.level3 > p {
+    text-align: center;
+}
+
+h3 {
+    font-size: 0px;
+}
+
+section.level4 {
+    border: solid  #80C0E0;
+    color: white;
+    border-radius: 30px;
+    border-style: groove;
+    margin: 20px;
+    padding: 20px;
+    position:relative;
+    left: 0;
+    top: 0;
+    min-width: 20em;
+    min-height: 20em;
+    vertical-align: center;
+}
+
+h4 {
+    font-size: 18em;
+    color: black;
+    background: #80C0E0;
+    position: absolute;
+    text-align: center;
+    vertical-align: center;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    margin: 0px;
+    padding: 0px;
+    z-index: -1;
+    opacity: 0.3;
+}
+
+h4 + p:first-line {
+    color: #FF3050 ;
+    font-size: 2em;
+}
+
+:link  { color: #FF3050 }
+:visited  { color: #D05070 }
